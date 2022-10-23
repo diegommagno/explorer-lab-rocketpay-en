@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Credit card component photo." src=".github/rocketpay.png" width="60%" />
-  <img alt="Credit card component photo." src=".github/rocketpay-2.png" width="71%" />
+  <img alt="Credit card component photo." src=".github/rocketpay-en.png" width="71%" />
 </p>
 
 <br>
@@ -16,7 +16,7 @@
 ## 📝 Live Preview 
 
 - [Brazilian Portuguese](https://explorer-lab-rocketpay-indol.vercel.app/) - [repo](https://github.com/diegommagno/explorer-lab-rocketpay)
-
+- Update: [English](https://rocketpay-en.vercel.app/) - viewing now
 
 ## 🧑🏻‍💻 Technologies
 
